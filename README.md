@@ -1,4 +1,4 @@
-#Custom Touchpad Gestures in Linux
+# Custom Touchpad Gestures in Linux
 ## My personal configuration file for libinput-gestures by bulletmark
 Put libinput-gestures.conf into ~/.config directory (See complete instructions to use in the source)
 
