@@ -6,7 +6,7 @@ Source: https://github.com/bulletmark/libinput-gestures
 
 ## Gestures List
 ### Swipe Up (3 Keys): Shows GNOME Overview
-#### (works with GNOME only)
+##### (works with GNOME only)
 ###  Swipe Down (3 Keys): Toggle Show-Desktop
 ###  Swipe Up (4 Keys): Increase Volume by 1 step
 ###  Swipe Down (4 Keys): Decrease Volume by 1 step
