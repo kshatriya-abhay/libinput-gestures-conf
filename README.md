@@ -5,7 +5,7 @@ Put libinput-gestures.conf into ~/.config directory and restart libinput-gesture
 Source: https://github.com/bulletmark/libinput-gestures
 
 ## Gestures List
-### Recommended for GNOME Xorg
+### Recommended for GNOME/KDE Xorg
 ### Swipe Up (3 Keys): Shows GNOME Overview
 ###  Swipe Down (3 Keys): Toggle Show-Desktop ( Ctrl+Super+D )
 ###  Swipe Up (4 Keys): Increase Volume by 1 step (Xorg only)
