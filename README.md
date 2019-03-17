@@ -16,3 +16,6 @@ Source: https://github.com/bulletmark/libinput-gestures
 
 ###  Pinch In (2 Keys): Zoom Out
 ###  Pinch Out (2 Keys): Zoom In
+
+#### Note: To use in deepin, read this to disable appropriate gestures https://github.com/linuxdeepin/dde-control-center/issues/83
+#### This is to avoid conflicts
